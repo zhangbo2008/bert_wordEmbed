@@ -1,1 +1,11 @@
 "# bert_wordEmbed" 
+
+
+'''
+线运行main.
+
+I:WORKER-0:use device cpu, load graph from C:\Users\ADMINI~1\AppData\Local\Temp\tmpyt0hl7r7
+I:WORKER-0:ready and listening!
+
+这时候再运行56,读取向量即可.
+'''
